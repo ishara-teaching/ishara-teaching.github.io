@@ -19,6 +19,12 @@ The activities for each lab session were determined in advance and tightly coupl
  * [Fall 2012 Teaching Evaluation](https://github.com/isharacomix/teaching/raw/master/classes/fall2012_csc326/teaching_evaluation.pdf)
  * [Spring 2013 Lesson Plans](https://github.com/isharacomix/teaching/raw/master/classes/spring2013_csc326/lessons_plans.pdf)
  * [Spring 2013 Teaching Evaluation](https://github.com/isharacomix/teaching/raw/master/classes/spring2013_csc326/teaching_evaluation.pdf)
+ * Slides: [1](https://github.com/isharacomix/teaching/raw/master/classes/spring2013_csc326/slides_1.pdf),
+           [2](https://github.com/isharacomix/teaching/raw/master/classes/spring2013_csc326/slides_2.pdf),
+           [3](https://github.com/isharacomix/teaching/raw/master/classes/spring2013_csc326/slides_3.pdf),
+           [5](https://github.com/isharacomix/teaching/raw/master/classes/spring2013_csc326/slides_5.pdf),
+           [7](https://github.com/isharacomix/teaching/raw/master/classes/spring2013_csc326/slides_7.pdf),
+           [9](https://github.com/isharacomix/teaching/raw/master/classes/spring2013_csc326/slides_9.pdf)
 
 
 
