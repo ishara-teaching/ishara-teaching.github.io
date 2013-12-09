@@ -11,6 +11,8 @@ During Fall 2013, I co-taught a section of CSC 230 which met twice a week for 75
 
 As co-teacher, I was responsible for leading the lecture for one of the two days each week, as well as holding office hours, monitoring the message board, and serving as head TA when it came to grading. The curriculum is planned in advance without much room for flexibility when the course is in full swing. Out of the six homework projects, I developed two of them, Homework 3 and Homework 4, which are included in the portfolio. The focus of the semester was to improve my comfort with lecturing as well as learning about the time commitments of trying to teach and pursue a research agenda at the same time.
 
+ * Fall 2013 Homework Assignments: [3](https://github.com/isharacomix/teaching/raw/master/classes/fall2013_csc230/3_homework.pdf), [4](https://github.com/isharacomix/teaching/raw/master/classes/fall2013_csc230/4_homework.pdf)
+ * [Fall 2013 Peer Observation Log](https://github.com/isharacomix/teaching/raw/master/classes/fall2013_csc230/observation_log.pdf)
 
 
 CSC 326: Software Engineering Lab

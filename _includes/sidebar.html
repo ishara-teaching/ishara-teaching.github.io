@@ -1,0 +1,11 @@
+  <li {% if page.course == "8bitmooc" %}
+      class="active" {% endif %}>
+      <a href="http://8bitmooc.org">
+          #8bitmooc</a>
+  </li>
+  
+  <li {% if page.title == "Past Courses" %}
+      class="active" {% endif %}>
+      <a href="{{site.baseurl}}old">
+          Past...</a>
+  </li>

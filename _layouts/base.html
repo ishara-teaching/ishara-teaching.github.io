@@ -28,7 +28,7 @@
                     <a href="{{ site.baseurl }}philosophy">Teaching Philosophy</a>
                   </li>
                   <li {% if page.title == "Past Classes" %} class="active" {% endif %}>
-                    <a href="{{ site.baseurl }}classes">Past Classes</a>
+                    <a href="{{ site.baseurl }}classes">Classes Taught</a>
                   </li>
                   <li {% if page.title == "Professional Development" %} class="active" {% endif %}>
                     <a href="{{ site.baseurl }}development">Professional Development</a>
@@ -43,16 +43,7 @@
                 <div class="span2">
                     <strong>Course Webpages</strong>
                     <ul class="nav nav-pills nav-stacked">
-                          <li {% if page.course == "8bitmooc" %}
-                              class="active" {% endif %}>
-                              <a href="http://8bitmooc.org">
-                                  #8bitmooc</a>
-                          </li>
-                          <li {% if page.title == "Past Courses" %}
-                              class="active" {% endif %}>
-                              <a href="{{site.baseurl}}classes">
-                                  Past Classes...</a>
-                          </li>
+                          {% include sidebar.html %}
                     </ul>
                 </div>
                 <div class="span10">
