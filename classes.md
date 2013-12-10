@@ -26,6 +26,8 @@ During Fall 2012 and Spring 2013, I led two sections of the lab component of CSC
 
 The activities for each lab session were determined in advance and tightly coupled with the learning objectives in the course, so my responsibility was to facilitate the lab activities and help students with both technical and conceptual issues. While I did not have the freedom to choose the activities, I did have the freedom to lead the activities as I pleased, and I took advantage of these opportunities to apply what I had learned in the FIT workshops I attended - particularly trying out different classroom assessment techniques.
 
+As most of my responsibility in the lab came from positioning the course content in the broader scope of my students' curriculum, the artifacts below demonstrate the goals I had in mind when each session started, and how I ended up displaying them on the slides that stood at the front of the room as students worked on their daily assignments. One feature that I added on my own initiative was the daily "food for thought" slide that was displayed on the projector before each class session, highlighting a professor in the department and asking a question about how a student would approach their research. My goal was to get students to think about their work in a broader context than they would if we focused exclusively on the subject matter and exercises.
+
  * [Fall 2012 Lesson Plans](https://github.com/isharacomix/teaching/raw/master/classes/fall2012_csc326/lesson_plan.pdf)
  * [Fall 2012 Teaching Evaluation](https://github.com/isharacomix/teaching/raw/master/classes/fall2012_csc326/teaching_evaluation.pdf)
  * [Spring 2013 Lesson Plans](https://github.com/isharacomix/teaching/raw/master/classes/spring2013_csc326/lessons_plans.pdf)
