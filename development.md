@@ -24,11 +24,11 @@ A great deal of my development as a teacher is thanks to the foundation of the N
 
 Certificate of Accomplishment in Teaching
 -----------------------------------------
-The CoAT program is an initiative at NC State University where Graduate Students can participate in an intensive series of workshops while reflecting on two semesters of teaching in a classroom or lab setting. As part of the CoAT program, I wrote two *synthesis and reflecton* essays bringing everything I’ve learned in the FIT workshops together.
+The CoAT program is an initiative at NC State University where Graduate Students can participate in an intensive series of workshops while reflecting on two semesters of teaching in a classroom or lab setting. As part of the CoAT program, I wrote two *synthesis and reflecton* essays bringing everything I’ve learned in the FIT workshops together. I was awarded the CoAT certificate in December of 2013.
 
- * [Teaching Through Grading](https://github.com/isharacomix/teaching/raw/master/coat/grading_essay.pdf), discussing a tool I developed in order to turn grading from a chore into a teaching opportunity
- * [Lesson Plans](https://github.com/isharacomix/teaching/raw/master/coat/lesson_plan_essay.pdf), why I make a lesson plan for every single class
-
+ * [Teaching Through Grading]({{ site.portfolio }}coat/grading_essay.pdf), discussing a tool I developed in order to turn grading from a chore into a teaching opportunity
+ * [Lesson Plans]({{ site.portfolio }}coat/lesson_plan_essay.pdf), why I make a lesson plan for every single class
+ * [Letter of Recommendation]({{ site.portfolio }}coat/coat_recommendation.pdf), a letter of recommendation from the CoAT facilitators.
 
 
 Conferences
