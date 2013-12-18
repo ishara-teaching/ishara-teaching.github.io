@@ -11,8 +11,9 @@ During Fall 2013, I co-taught a section of CSC 230 which met twice a week for 75
 
 As co-teacher, I was responsible for leading the lecture for one of the two days each week, as well as holding office hours, monitoring the message board, and serving as head TA when it came to grading. The curriculum is planned in advance without much room for flexibility when the course is in full swing. Out of the six homework projects, I developed two of them, Homework 3 and Homework 4, which are included in the portfolio. The focus of the semester was to improve my comfort with lecturing as well as learning about the time commitments of trying to teach and pursue a research agenda at the same time.
 
- * Fall 2013 Homework Assignments: [3](https://github.com/isharacomix/teaching/raw/master/classes/fall2013_csc230/3_homework.pdf), [4](https://github.com/isharacomix/teaching/raw/master/classes/fall2013_csc230/4_homework.pdf)
- * [Fall 2013 Peer Observation Log](https://github.com/isharacomix/teaching/raw/master/classes/fall2013_csc230/observation_log.pdf)
+ * Fall 2013 Homework Assignments: [3]({{ site.portfolio }}classes/fall2013_csc230/3_homework.pdf),
+                                   [4]({{ site.portfolio }}classes/fall2013_csc230/4_homework.pdf)
+ * [Fall 2013 Peer Observation Log]({{ site.portfolio }}classes/fall2013_csc230/observation_log.pdf)
 
 
 CSC 326: Software Engineering Lab
@@ -26,16 +27,18 @@ During Fall 2012 and Spring 2013, I led two sections of the lab component of CSC
 
 The activities for each lab session were determined in advance and tightly coupled with the learning objectives in the course, so my responsibility was to facilitate the lab activities and help students with both technical and conceptual issues. While I did not have the freedom to choose the activities, I did have the freedom to lead the activities as I pleased, and I took advantage of these opportunities to apply what I had learned in the FIT workshops I attended - particularly trying out different classroom assessment techniques.
 
- * [Fall 2012 Lesson Plans](https://github.com/isharacomix/teaching/raw/master/classes/fall2012_csc326/lesson_plan.pdf)
- * [Fall 2012 Teaching Evaluation](https://github.com/isharacomix/teaching/raw/master/classes/fall2012_csc326/teaching_evaluation.pdf)
- * [Spring 2013 Lesson Plans](https://github.com/isharacomix/teaching/raw/master/classes/spring2013_csc326/lessons_plans.pdf)
- * [Spring 2013 Teaching Evaluation](https://github.com/isharacomix/teaching/raw/master/classes/spring2013_csc326/teaching_evaluation.pdf)
- * Slides: [1](https://github.com/isharacomix/teaching/raw/master/classes/spring2013_csc326/slides_1.pdf),
-           [2](https://github.com/isharacomix/teaching/raw/master/classes/spring2013_csc326/slides_2.pdf),
-           [3](https://github.com/isharacomix/teaching/raw/master/classes/spring2013_csc326/slides_3.pdf),
-           [5](https://github.com/isharacomix/teaching/raw/master/classes/spring2013_csc326/slides_5.pdf),
-           [7](https://github.com/isharacomix/teaching/raw/master/classes/spring2013_csc326/slides_7.pdf),
-           [9](https://github.com/isharacomix/teaching/raw/master/classes/spring2013_csc326/slides_9.pdf)
+As most of my responsibility in the lab came from positioning the course content in the broader scope of my students' curriculum, the artifacts below demonstrate the goals I had in mind when each session started, and how I ended up displaying them on the slides that stood at the front of the room as students worked on their daily assignments. One feature that I added on my own initiative was the daily "food for thought" slide that was displayed on the projector before each class session, highlighting a professor in the department and asking a question about how a student would approach their research. My goal was to get students to think about their work in a broader context than they would if we focused exclusively on the subject matter and exercises.
+
+ * [Fall 2012 Lesson Plans]({{ site.portfolio }}classes/fall2012_csc326/lesson_plan.pdf)
+ * [Fall 2012 Teaching Evaluation]({{ site.portfolio }}classes/fall2012_csc326/teaching_evaluation.pdf)
+ * [Spring 2013 Lesson Plans]({{ site.portfolio }}classes/spring2013_csc326/lessons_plans.pdf)
+ * [Spring 2013 Teaching Evaluation]({{ site.portfolio }}classes/spring2013_csc326/teaching_evaluation.pdf)
+ * Slides: [1]({{ site.portfolio }}classes/spring2013_csc326/slides_1.pdf),
+           [2]({{ site.portfolio }}classes/spring2013_csc326/slides_2.pdf),
+           [3]({{ site.portfolio }}classes/spring2013_csc326/slides_3.pdf),
+           [5]({{ site.portfolio }}classes/spring2013_csc326/slides_5.pdf),
+           [7]({{ site.portfolio }}classes/spring2013_csc326/slides_7.pdf),
+           [9]({{ site.portfolio }}classes/spring2013_csc326/slides_9.pdf)
 
 
 
