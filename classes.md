@@ -4,6 +4,7 @@ title: Past Classes
 ---
 
 
+## CSC 230: C and Software Tools ##
 
 CSC 230: C and Software Tools
 -----------------------------
