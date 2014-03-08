@@ -3,7 +3,7 @@ layout: base
 title: Past Classes
 ---
 
- 
+
 
 C and Software Tools
 -----------------------------
