@@ -3,8 +3,8 @@ layout: base
 title: Past Classes
 ---
 
-Classes Taught
---------------
+## Classes Taught ##
+
 
 Test
 
