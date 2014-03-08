@@ -3,8 +3,8 @@ layout: base
 title: Past Classes
 ---
 
-Teaching Philosophy
--------------------
+CSC 230
+-------
 
 *Taught Fall 2013 (1 section, 83 students), co-taught with [Dr. Sarah Heckman](http://people.engr.ncsu.edu/sesmith5/)*
 
