@@ -3,8 +3,8 @@ layout: base
 title: Past Classes
 ---
 
-CSC 230
--------
+CSC 230: C and Software Tools
+-----------------------------
 
 *Taught Fall 2013 (1 section, 83 students), co-taught with [Dr. Sarah Heckman](http://people.engr.ncsu.edu/sesmith5/)*
 
