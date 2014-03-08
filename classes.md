@@ -3,9 +3,8 @@ layout: base
 title: Past Classes
 ---
 
-CSC 230 C and Software Tools
------------------------------
-
+CSC 230 - C and Software Tools
+------------------------------
 *Taught Fall 2013 (1 section, 83 students), co-taught with [Dr. Sarah Heckman](http://people.engr.ncsu.edu/sesmith5/)*
 
 During Fall 2013, I co-taught a section of CSC 230 which met twice a week for 75 minutes. CSC 230 is a sophomore-level course required for all Computer Science majors as well as student pursuing a programming certificate or minor. CSC 230 is a large lecture course with over 60 students in a section, and also contains a sizable Distance Education cohort. CSC 230 teaches students their second programming language in the Computer Science program, the C language, which is a lower-level language than Java, which is taught first. This introduces them to lower-level computing concepts in order to prepare them for courses like Operating Systems. The course is heavily lecture based, with the bulk of the final grade on 3 examinations and 6 programming-intensive projects assigned for homework.
@@ -18,8 +17,8 @@ As co-teacher, I was responsible for leading the lecture for one of the two days
 
 
 
-CSC 326: Software Engineering Lab
----------------------------------
+CSC 326 - Software Engineering Lab
+----------------------------------
 *Taught Fall 2012 (2 sections, 12 and 17 students), led by [Dr. Emerson Murphy-Hill](http://people.engr.ncsu.edu/ermurph3/)*     
 *Taught Spring 2013 (2 sections, 25 and 25 students), led by [Dr. Tao Xie](http://www.csc.ncsu.edu/people/txie)*
 
@@ -44,8 +43,8 @@ As most of my responsibility in the lab came from positioning the course content
 
 
 
-Fundamentals in Teaching: Research Reading Group
-------------------------------------------------
+Fundamentals in Teaching - Research Reading Group
+-------------------------------------------------
 *Coordinated Fall 2012 and Spring 2013 (3 meetings each)*
 
 *The Current Issues in Teaching Reading Group is three-part series where graduate students with an interest in teaching come together to discuss scholarly articles related to research in teaching. The Reading Group is designed to build on the skills introduced in the Fundamentals in Teaching workshops, offering students and post-docs the chance to critically analyze the current research in the field.*
@@ -60,5 +59,4 @@ The Fall 2012 Reading Group focused on research in *assessment and evaluation*, 
  * Session 4: Peterson, M. (2010). Computerized Games and Simulations in Computer-Assisted Language Learning: A Meta-Analysis of Research. *Simulation & Gaming*, 41(1), 72–93. (8 Participants)
  * Session 5: Martin Ebner, Conrad Lienhardt, Matthias Rohs, Iris Meyer, Microblogs in Higher Education - A chance to facilitate informal and process-oriented learning?, *Computers & Education*, Volume 55, Issue 1, August 2010, Pages 92-100. (7 Participants)
  * Session 6: Decker, A., & Lawley, E. L. (2013, March). Life's a game and the game of life: how making a game out of it can change student behavior. In *Proceedings of the 44th ACM technical symposium on Computer science education*, Pages 233-238 (8 Participants).
-
 
