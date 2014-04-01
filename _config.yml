@@ -1,2 +1,3 @@
 baseurl: "http://isharacomix.org/teaching/"
 portfolio: "https://github.com/isharacomix/teaching/raw/master/"
+markdown: redcarpet
