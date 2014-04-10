@@ -26,7 +26,7 @@ exercises done as part of the requirements of the *Certificate of Accomplishment
 in Teaching* and the *Preparing the Professoriate* programs, demonstrating my
 commitment to self-improvement beyond my usual duties in the classroom.
 
-### Summary ###
+### Executive Summary ###
 This piece of writing ties the portfolio together by covering the impact of the
 Preparing the Professoriate program on my teaching career.
 
