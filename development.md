@@ -6,8 +6,9 @@ title: Professional Development
 Fundamentals in Teaching Workshops
 ----------------------------------
 
-A great deal of my development as a teacher is thanks to the foundation of the NC State University Fundamentals in Teaching (FIT) program. FIT offers several workshops to its Graduate Students, postdocs, staff, and faculty (free of charge) on subjects ranging from Classroom Assessment Techniques to Teaching to Different Learning Styles. Some of these workshops were attended more than once, but only the first attendance is listed below.
+A great deal of my development as a teacher is thanks to the foundation of the NC State University Fundamentals in Teaching (FIT) program. FIT offers several workshops to its Graduate Students, postdocs, staff, and faculty on subjects ranging from Classroom Assessment Techniques to Teaching to Different Learning Styles. Some of these workshops were attended more than once, but only the first attendance at each is listed below.
 
+ * *Getting the Inside Scoop*: In this workshop, we met with faculty from a variety of institutions to talk about the differences in teaching and research responsibilities at each - February 18, 2014
  * *Question, Persuade, Refer: Suicide Prevention Training*: In this seminar, students participated in the [one-hour QPR training program](http://www.qprinstitute.com/) for suicide awareness and prevention - October 29, 2013
  * *Teaching with Sensitivity to Difference*: This seminar covered the importance and strategies for being aware and receptive for students from different backgrounds, with emphasis on the accommodations provided by the NC State Disability Services Office - Jamie Coccarelli and Rebecca Sitton, October 22, 2013
  * *Motivating Students*: The first seminar of the Preparing the Professoriate Program, we were taught how to motivate students through our own attitude and demeanor in the classroom - Bryce Lane, September 17, 2013
