@@ -24,7 +24,7 @@ As co-teacher, I was responsible for leading the lecture for one of the two days
                               [7]({{ site.portfolio }}classes/spring2014_csc230/ln_7_everythingelse.md),
                               [8]({{ site.portfolio }}classes/spring2014_csc230/ln_8_secure.md)
  * [Spring 2014 Midterm Evaluation]({{ site.portfolio }}classes/spring2014_csc230/midterm_evaluation.pdf)
- * [Mentor Observation]({{ site.portfolio }}classes/spring2014_csc230/observation.pdf)
+ * [Faculty Observation]({{ site.portfolio }}classes/spring2014_csc230/observation.pdf)
 
 
 CSC 326 - Software Engineering Lab
