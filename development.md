@@ -31,7 +31,7 @@ Preparing the Professoriate is a one-year, teaching-intensive program where a st
 
 
  * **Peer Observation**: As part of PTP, two fellows attend one of the other's lectures and take notes on the experience, producing a [log]({{ site.portfolio }}classes/fall2013_csc230/observation_log.pdf) and having a [discussion]({{ site.portfolio }}ptp/ptp_observation_discussion.pdf) about the lecture.
- * **Mentor Observation**: In addition to being observed by my peers, my mentor also formally observed my teaching once each semester. *[Reflection]({{ site.baseurl }}writing/ptp_reflection_mentor)*
+ * **Mentor Observation**: In addition to being observed by my peers, my mentor also formally observed my teaching three times during my two semesters using the same criteria that professors in my department use to evaluate their peers. *[Reflection]({{ site.baseurl }}writing/ptp_reflection_mentor)*
  * **Exams**: During my second semester in CSC230, I was responsible for developing my own exams for my sections. This was my first experience developing an exam, and I believe that when I wrote [Midterm 2]({{ site.portfolio }}classes/spring2014_csc230/midterm2.pdf), I was able to learn from my mistakes and make a strong exam compared to the first midterm. Midterms in CSC 230 are cumulative, so content from the entire semester is present. *[Reflection]({{ site.baseurl }}writing/ptp_reflection_midterm)*
  * **Course Evaluations**: In the Computer Science Department, whenever an instructor teaches a course for the first time, they are required to undergo a [midterm teaching evaluation]({{ site.portfolio }}classes/spring2014_csc230/midterm_evaluation.pdf) by the students. Students complete the evaluation anonymously, but I excluded the open-ended response questions. *[Reflection]({{ site.baseurl }}writing/ptp_reflection_evaluations)*
  * **Assignment Write-up**: As part of my teaching responsibilities, I was asked to develop a homework assignment for the course. One of the areas indicated as needing improvement the last time that CSC230 was evaluated was adding more information on security to the course, so I created a [homework assignment]({{ site.portfolio }}classes/fall2013_csc230/3_homework.pdf) asking students to implement the DES Encryption Algorithm. *[Reflection]({{ site.baseurl }}writing/ptp_reflection_assignment)*
@@ -50,6 +50,7 @@ Conferences
 -----------------------------------------
 I have also sought out conferences and workshops hosted at my home institution and elsewhere to further my development as a teacher.
 
+ * [SIGCSE Technical Symposium on Computer Science Education](http://sigcse2014.sigcse.org/), Atlanta, Georgia, March 5-8, 2014
  * [SIGCSE Technical Symposium on Computer Science Education](http://www.sigcse.org/sigcse2013/), Denver, Colorado, March 6-9, 2013
  * [Lilly Conference on College and University Teaching](http://lilly.uncg.edu/), UNC Greensboro, February 15-17, 2013
  * [Virginia Tech Conference on Higher Education Pedagogy](http://www.cider.vt.edu/conference/), Virginia Tech, February 6-8, 2013
