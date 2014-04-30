@@ -13,5 +13,5 @@ In my final observation, Dr. Heckman took notice that I had matured substantiall
 
 Having a mentor that is willing to help indicate areas of improvement and recognize when I manage to improve has been the most beneficial part of participating in PTP. Dr. Heckman has shared her feedback on my teaching from both her practice in the classroom as well as her understanding of educational psychology related to our field, and it has made an immediate and measurable impact on my lecturing and planning skills.
 
-Here is Dr. Heckman's observation report, in her own words.
+Here is Dr. Heckman's [observation report]({{ site.portfolio }}classes/spring2014_csc230/observation.pdf), in her own words.
 
