@@ -5,7 +5,6 @@ title: Professional Development
 
 Fundamentals in Teaching Workshops
 ----------------------------------
-
 A great deal of my development as a teacher is thanks to the foundation of the NC State University Fundamentals in Teaching (FIT) program. FIT offers several workshops to its Graduate Students, postdocs, staff, and faculty on subjects ranging from Classroom Assessment Techniques to Teaching to Different Learning Styles. Some of these workshops were attended more than once, but only the first attendance at each is listed below.
 
  * *Getting the Inside Scoop*: In this workshop, we met with faculty from a variety of institutions to talk about the differences in teaching and research responsibilities at each - February 18, 2014
@@ -30,11 +29,12 @@ Preparing the Professoriate
 Preparing the Professoriate is a one-year, teaching-intensive program where a student works closely with a faculty mentor to improve their instruction. In this program, students undergo an observation semester and a teaching semester, and attend a series of workshops with the rest of the PTP cohort. I am participating in the 2013-2014 cohort of the program, mentored by Dr. Sarah Heckman teaching CSC 230, C and Software Tools.
 
 
- * **Peer Observation**: As part of PTP, two fellows attend one of the other's lectures and take notes on the experience, producing a [log]({{ site.portfolio }}classes/fall2013_csc230/observation_log.pdf), a [report]({{ site.portfolio }}ptp/ptp_peer_observation.pdf) and having a [discussion]({{ site.portfolio }}ptp/ptp_observation_discussion.pdf) about the lecture.
+ * **Peer Observation**: As part of PTP, two fellows attend one of the other's lectures and take notes on the experience, producing a [log]({{ site.portfolio }}classes/fall2013_csc230/observation_log.pdf), a [report]({{ site.portfolio }}ptp/ptp_peer_observation.pdf) and having a [discussion]({{ site.portfolio }}ptp/ptp_observation_discussion.pdf) about the lecture. *[Reflection]({{ site.baseurl }}writing/ptp_reflection_peer)*
  * **Mentor Observation**: In addition to being observed by my peers, my mentor also [formally observed]({{ site.portfolio }}classes/spring2014_csc230/observation.pdf) my teaching three times during my two semesters using the same criteria that professors in my department use to evaluate their peers. *[Reflection]({{ site.baseurl }}writing/ptp_reflection_mentor)*
  * **Exams**: During my second semester in CSC230, I was responsible for developing my own exams for my sections. This was my first experience developing an exam, and I believe that when I wrote [Midterm 2]({{ site.portfolio }}classes/spring2014_csc230/midterm2.pdf), I was able to learn from my mistakes and make a strong exam compared to the first midterm. Midterms in CSC 230 are cumulative, so content from the entire semester is present. *[Reflection]({{ site.baseurl }}writing/ptp_reflection_midterm)*
  * **Course Evaluations**: In the Computer Science Department, whenever an instructor teaches a course for the first time, they are required to undergo a [midterm teaching evaluation]({{ site.portfolio }}classes/spring2014_csc230/midterm_evaluation.pdf) by the students. Students complete the evaluation anonymously, but I excluded the open-ended response questions. *[Reflection]({{ site.baseurl }}writing/ptp_reflection_evaluations)*
  * **Assignment Write-up**: As part of my teaching responsibilities, I was asked to develop a homework assignment for the course. One of the areas indicated as needing improvement the last time that CSC230 was evaluated was adding more information on security to the course, so I created a [homework assignment]({{ site.portfolio }}classes/fall2013_csc230/3_homework.pdf) asking students to implement the DES Encryption Algorithm. *[Reflection]({{ site.baseurl }}writing/ptp_reflection_assignment)*
+ * **Seminar Implementation**: One of the most inspiring seminars I attended during PTP was the first one, Bryce Lane's presentation on motivating students. I genuinely believe the best way to motivate students is to not be shy about geeking out over the topics that we as teachers love the most, and I didn't hold anything back when I was teaching. *[Reflection]({{ site.baseurl }}writing/ptp_reflection_seminar)*
 
 
 Certificate of Accomplishment in Teaching
